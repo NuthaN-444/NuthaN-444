@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuthan-444&label=Profile%20views&color=0e75b6&style=flat" alt="nuthan-444" /> </p>
 
-- 🤝 I’m looking for help with **Web Development**
+- 🤝 I’m looking for help with **Web Development.**
 
 - 💬 Ask me about **Web Development**
 
