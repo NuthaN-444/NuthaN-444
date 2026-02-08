@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **Web Development.**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development.**
 
 - 📫 How to reach me **nuthanprasadkg@gmail.com**
 
